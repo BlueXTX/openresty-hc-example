@@ -1,0 +1,1 @@
+docker compose -p openresty-hc-example -f ./docker/docker-compose.yml up --build -d 
